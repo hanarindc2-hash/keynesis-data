@@ -6,7 +6,7 @@
 ### 1. What is this project and what is this for?
 
 - This project is more than the research of modular furniture. It is the research for the architure of kinetic home system.
-- 
+-  
 
 ----
 ## Insight and Desk Research
